@@ -1,4 +1,4 @@
-# TechPulse X-Monitor
+# Claude TechPulse X-Monitor
 
 Real-time X (Twitter) pulse for engineers: track vulnerabilities, framework drama, outages, hype cycles, and influencer takes instantly in Claude Code.
 
@@ -9,7 +9,7 @@ Real-time X (Twitter) pulse for engineers: track vulnerabilities, framework dram
 ## Installation
 ```bash
 # From your GitHub repo
-claude plugin add github:sourav-username/techpulse-xmonitor
+claude plugin add github:souravpn/claude-techpulse-xmonitor
 
 ## Security Notes
 - Read-only access to public X data only.

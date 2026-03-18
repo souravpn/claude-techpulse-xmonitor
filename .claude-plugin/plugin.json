@@ -1,5 +1,5 @@
 {
-  "name": "techpulse-xmonitor",
+  "name": "claude-techpulse-xmonitor",
   "version": "1.0.0",
   "description": "Real-time monitoring of tech trends, vulnerabilities, breaking changes, and developer discussions on X (Twitter). Brings Grok-like X ecosystem pulse to Claude Code. Use /xtech for quick digests or /xmonitor for advanced queries.",
   "author": {
